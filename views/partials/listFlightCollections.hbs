@@ -1,0 +1,16 @@
+{{#each flightCollections}}
+  <section class="ui stacked segment">
+    <h2 class="ui header" style = "margin-bottom:0">
+      {{title}}
+    </h2>
+    <h4 style = "margin-top:0">
+     Number of Flights: {{numberOfFlights}}
+    </h4>
+    <a href="/flightCollection/{{id}}" class="ui icon button">
+      <i class="icon folder open"></i>
+    </a>
+    <a href="/dashboard/deleteFlightCollection/{{id}}" class="ui icon button delFlightCollection">
+      <i class="icon trash"></i>
+    </a>
+  </section>
+{{/each}}

@@ -1,0 +1,58 @@
+<table class="ui fixed striped table">
+  <thead>
+    <tr>
+      <th>Flight Number</th>
+      <th>Origin</th>
+      <th>Destination</th>
+      <th>Airline</th>
+      <th>Pilot</th>
+      <th>Departure Date</th>
+      <th>Departure Time</th>
+      <th>Duration</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each flightCollection.flights}}
+      <tr>
+        <td>
+          {{flightNumber}}
+        </td>
+        <td>
+          {{origin}}
+        </td>
+        <td>
+          {{destination}}
+        </td>
+        <td>
+          {{airline}}
+        </td>
+        <td>
+          {{pilot}}
+        </td>
+        <td>
+          {{departureDate}}
+        </td>
+        <td>
+          {{departureTime}}
+        </td>
+        <td>
+          {{duration}}
+        </td>
+        <td>
+          <a href="/flightCollection/{{../flightCollection.id}}/deleteFlight/{{id}}" class="ui icon button delflight">
+            <i class="icon trash"></i>
+          </a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+<p>
+  <span id="rating"> </span>
+</p>
+
+<button class="ui blue button" id = "rateit">
+  Rate it! <i class="star icon"></i>
+</button>

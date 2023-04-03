@@ -1,0 +1,83 @@
+{{> menu}}
+
+<section class="ui two column grid segment">
+  <div class="ui column">
+    <h2>Welcome to the Flight Collection App!</h2>
+    <p>
+      This app allows users to create and save collections of flights for
+      purposes of holidays, work and family trips.
+    </p>
+    <div class="buttons">
+      <button class="ui blue button">
+        Read more
+        <i class="arrow circle right icon"></i>
+      </button>
+      <button class="ui green button">
+        Like it?
+        <i class="thumbs up icon"></i>
+      </button>
+      <button class="ui red button">
+        Who are you?
+        <i class="user icon"></i>
+      </button>
+    </div>
+    <div id="readmore" class="ui message">
+      <p>
+        The Flight Collection App is a student assigment as part of a Web Application Development 1 module at SETU Waterford.
+      </p>
+    </div>
+    <div id="welcomeuser" class="ui message"> </div>
+
+    <div class="ui divider"></div>
+
+    <h3 class="ui center aligned header">The Flight Collection App now contains:</h3>
+    <div class="ui two statistics">
+      <div class="ui huge statistic">
+        <div class="value">
+          {{totalFlightCollections}}
+        </div>
+        <div class="label">
+          Flight Collections
+        </div>
+      </div>
+      <div class="ui huge statistic">
+        <div class="value">
+          {{totalFlights}}
+        </div>
+        <div class="label">
+          Flights
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="ui column">
+    <div class="ui grid">
+      <div class="ui eight wide column">
+        <img
+          class="ui small circular image"
+          src="https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/ryanair_square_1.png?v=1680044739945"
+        />
+      </div>
+      <div class="ui eight wide column">
+        <img
+          class="ui small circular image"
+          src="https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/new-logo-shamrock4.jpg?v=1679431676170"
+        />
+      </div>
+      <div class="ui eight wide column">
+        <img
+          class="ui small circular image"
+          src="https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/united.webp?v=1679431678946"
+        />
+      </div>
+      <div class="ui eight wide column">
+        <img
+          class="ui small circular image"
+          src="https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/lufthansa--600.png?v=1679431680812"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+{{> footer}}

@@ -1,0 +1,28 @@
+{"developers":
+  [
+    {
+      "name":"Ryanair",
+      "image":"https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/ryanair_square_1.png?v=1680044739945",
+      "founded":"1984",
+      "city":"Dublin",
+      "url": "www.ryanair.com",
+      "staff": 4500
+    },
+    {
+      "name":"Aer Lingus",
+      "image":"https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/new-logo-shamrock4.jpg?v=1679431676170",
+      "founded":"1993",
+      "city":"Dublin",
+      "url": "www.aerlingus.com",
+      "staff": 2500
+    },
+    {
+      "name":"Lufthansa",
+      "image":"https://cdn.glitch.global/fb26ac15-6abc-452d-8504-e90e26b05a7c/lufthansa--600.png?v=1679431680812",
+      "founded":"1953",
+      "city":"Berlin",
+      "url":"www.lufthansa.com",
+      "staff": 8005
+    }
+  ]
+}

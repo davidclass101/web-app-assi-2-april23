@@ -1,0 +1,45 @@
+{
+  "flightCollectionCollection": [
+    {
+      "id": "73667c51-8e8e-4a4e-920d-a8997b96415d",
+      "title": "Holidays2025",
+      "numberOfFlights": "23",
+      "flights": [
+        {
+          "id": "c90de7ef-559a-42d5-9c87-b38b8ff002b7",
+          "flightNumber": "FR1244",
+          "origin": "Dublin",
+          "destination": "London (Stansted)",
+          "airline": "Ryanair",
+          "pilot": "Mr. Name Surname",
+          "duration": "1:00",
+          "departureTime": "6.35",
+          "departureDate": "24/05/2023"
+        },
+        {
+          "id": "cb914d36-beb6-4128-808f-0cb61ed8893a",
+          "flightNumber": "FR1244",
+          "origin": "Dublin",
+          "destination": "Heathrow",
+          "airline": "Aer Lingus",
+          "pilot": "Mr mr",
+          "duration": "11",
+          "departureTime": "654646",
+          "departureDate": "26464646"
+        }
+      ]
+    },
+    {
+      "id": "3027c4d0-b744-4847-981b-c1ff429e22ff",
+      "title": "holibbobs 23",
+      "numberOfFlights": "8",
+      "flights": []
+    },
+    {
+      "id": "5aeaef47-6d52-4c90-89d4-378d03c73e7b",
+      "title": "Work Trip - August 2023",
+      "numberOfFlights": "2",
+      "flights": []
+    }
+  ]
+}
