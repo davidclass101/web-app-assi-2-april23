@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "picture": "https://res.cloudinary.com/web-app-dev-1/image/upload/v1648551677/tyzsjsrcyhfnyehtjr0v.jpg",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "marge",
+      "lastName": "simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "picture": "https://res.cloudinary.com/web-app-dev-1/image/upload/v1648456157/inht7towwtepo41w0ukz.png",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Lyng",
+      "email": "mlyng@wit.ie",
+      "password": "Trustno1",
+      "picture": "http://res.cloudinary.com/web-app-dev-1/image/upload/v1679525829/nbupykjn67m4bxeyce9b.jpg",
+      "id": "110a155f-c49d-4254-875e-2a5b7a9dc893"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "Db22062003**",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681337079/wxezn6uqytaiuk3u0tga.png",
+      "id": "1267211d-92d7-4890-96ea-d59cfef473f5"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "zJSTBu5UPWLqdVN",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681337123/wf8xligjpywkenovculm.png",
+      "id": "62729129-cba8-4c89-b520-85885f2a7374"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "zJSTBu5UPWLqdVN",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681337314/zjiblioum38yw3seflhk.png",
+      "id": "1a2b8666-2f6b-45d3-abc8-15e5c50a5a1d"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "zJSTBu5UPWLqdVN",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681337427/aafvcvk5nrcc7lq12uaa.png",
+      "id": "f0003644-a473-4cec-8079-5260912bb9eb"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "zJSTBu5UPWLqdVN",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681337667/vmhkg1qxf8rwvloyklxq.png",
+      "id": "6ef44575-20dc-45ff-9fa9-7792c415ff27"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "dbjelac2003@gmail.com",
+      "password": "zJSTBu5UPWLqdVN",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681339093/ufl98ry9idvifnqjx645.png",
+      "id": "e2beca35-95cd-4992-84d9-01492e52fcf6"
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bjelac",
+      "email": "ceo.dbmedia@gmail.com",
+      "password": "Db22062003**",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681339753/bvhqplztwr4ycw0ezrhk.png",
+      "id": "b89319e4-da46-4335-92b8-684a1a11919f"
+    }
+  ]
+}

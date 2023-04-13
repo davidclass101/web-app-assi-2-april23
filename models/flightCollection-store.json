@@ -1,44 +1,43 @@
 {
   "flightCollectionCollection": [
     {
-      "id": "73667c51-8e8e-4a4e-920d-a8997b96415d",
-      "title": "Holidays2025",
-      "numberOfFlights": "23",
-      "flights": [
-        {
-          "id": "c90de7ef-559a-42d5-9c87-b38b8ff002b7",
-          "flightNumber": "FR1244",
-          "origin": "Dublin",
-          "destination": "London (Stansted)",
-          "airline": "Ryanair",
-          "pilot": "Mr. Name Surname",
-          "duration": "1:00",
-          "departureTime": "6.35",
-          "departureDate": "24/05/2023"
-        },
-        {
-          "id": "cb914d36-beb6-4128-808f-0cb61ed8893a",
-          "flightNumber": "FR1244",
-          "origin": "Dublin",
-          "destination": "Heathrow",
-          "airline": "Aer Lingus",
-          "pilot": "Mr mr",
-          "duration": "11",
-          "departureTime": "654646",
-          "departureDate": "26464646"
-        }
-      ]
-    },
-    {
-      "id": "3027c4d0-b744-4847-981b-c1ff429e22ff",
-      "title": "holibbobs 23",
-      "numberOfFlights": "8",
+      "id": "5aeaef47-6d52-4c90-89d4-378d03c73e7b",
+      "userid": "b89319e4-da46-4335-92b8-684a1a11919f",
+      "title": "a",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681339768/vk54icjzsiwevscfqhja.png",
+      "date": "2023-04-12T22:49:28.044Z",
       "flights": []
     },
     {
-      "id": "5aeaef47-6d52-4c90-89d4-378d03c73e7b",
-      "title": "Work Trip - August 2023",
-      "numberOfFlights": "2",
+      "id": "b2d2c17b-eacd-4236-95a6-210fbcd8455e",
+      "userid": "b89319e4-da46-4335-92b8-684a1a11919f",
+      "title": "Holidays",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681390214/wijxdnl7ku6uhcys6l2n.png",
+      "date": "2023-04-13T12:50:13.846Z",
+      "flights": []
+    },
+    {
+      "id": "645be39b-ff06-4f2f-92db-220d000876ad",
+      "userid": "b89319e4-da46-4335-92b8-684a1a11919f",
+      "title": "aa",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681390321/lurwwqqoxnsoh2jd9fpb.png",
+      "date": "2023-04-13T12:52:01.508Z",
+      "flights": []
+    },
+    {
+      "id": "c8c8219f-c424-4e9d-9954-3b11f70bfcc2",
+      "userid": "b89319e4-da46-4335-92b8-684a1a11919f",
+      "title": "Holidays2025",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681390437/ia3zqpm2ibrggwr0v9gx.png",
+      "date": "2023-04-13T12:53:57.155Z",
+      "flights": []
+    },
+    {
+      "id": "75d1382f-00d2-4070-946f-2db2b2c9fbb6",
+      "userid": "b89319e4-da46-4335-92b8-684a1a11919f",
+      "title": "Holidays2025",
+      "picture": "http://res.cloudinary.com/dc2omeid0/image/upload/v1681391805/dmvy7zwvhsqfainja1el.png",
+      "date": "2023-04-13T13:16:45.160Z",
       "flights": []
     }
   ]

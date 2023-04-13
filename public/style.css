@@ -22,6 +22,10 @@ body {
 	}
 }
 
+.ui.segment {
+  box-shadow: none !important;
+}
+
 
 .ui.two.column.grid.segment {
   border-radius:20px;

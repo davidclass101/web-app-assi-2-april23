@@ -1,20 +1,24 @@
 {
-  "name": "flightCollection-app",
+  "name": "flightcollection-app",
   "version": "0.0.1",
-  "description": "Flight Collection Creator",
-  "main": "server.js",
+  "description": "flight collection creator",
   "type": "module",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
+    "cloudinary": "^1.36.0",
+    "cookie-parser": "^1.4.6",
     "express": "^4.18.2",
-    "express-handlebars": "^7.0.4",
+    "express-fileupload": "^1.4.0",
+    "express-handlebars": "^7.0.6",
     "lodash": "^4.17.21",
     "lowdb": "^5.1.0",
     "uuid": "^9.0.0",
-    "winston": "^3.5.0"
+    "winston": "^3.7.2",
+    "cloudinary-core": "^2.13.0"
   },
   "engines": {
     "node": "16.x"
